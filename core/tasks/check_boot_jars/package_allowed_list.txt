@@ -246,8 +246,3 @@ com\.google\.i18n\.phonenumbers
 # Packages used for Android in Chrome OS
 org\.chromium\.arc
 org\.chromium\.arc\..*
-
-###################################################
-# LineageOS
-lineageos\.platform
-org\.lineageos\.platform\.internal
